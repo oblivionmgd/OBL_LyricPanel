@@ -5,7 +5,7 @@ Load Lyric:でテキストファイルを参照できます。
 Clearを押してパネルを非表示にします。
 
 ## Installation
-下記のパスにOBL_LyricPanel.jsxを配置してください。
+画面右上の"Code"→”Download ZIP"よりスクリプトをDLし、下記のパスにOBL_LyricPanel.jsxを配置してください。
 
 ```
 Win: C:\Program Files\Adobe\Adobe After Effects 2020\Support Files\Scripts\ScriptUI Panels
